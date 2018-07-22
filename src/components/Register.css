@@ -1,0 +1,30 @@
+.register-block {
+    display: flex;
+    flex-direction: column;
+}
+.register-block h4 {
+    margin: auto;
+}
+.register-form {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+.register-form label {
+    margin: 5px
+}
+.register-form input {
+    font-size: 20px;
+    outline: none;
+    padding: 5px;
+}
+.register-form button {
+    padding: 10px;
+    width: fit-content;
+    margin: auto;
+    background: darkgrey;
+    outline: none
+}
+.register-form span {
+    color: red;
+}

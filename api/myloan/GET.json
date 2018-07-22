@@ -1,0 +1,8 @@
+{
+    "name":"Star",
+    "loanNumber":123456,
+    "loanAmount":50000,
+    "amountLeft":5000,
+    "weeklyAmount":500,
+    "weeksLeft":10
+}
